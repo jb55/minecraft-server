@@ -1,0 +1,9 @@
+[submodule "bukkit/Bukkit"]
+	path = bukkit/Bukkit
+	url = git://github.com/Bukkit/Bukkit.git
+[submodule "bukkit/CraftBukkit"]
+	path = bukkit/CraftBukkit
+	url = git://github.com/Bukkit/CraftBukkit.git
+[submodule "bukkit/plugins/FenceStack"]
+	path = bukkit/plugins/FenceStack
+	url = git://github.com/ashtonw/FenceStack.git
