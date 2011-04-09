@@ -1,1 +1,1 @@
-redo-ifchange $(../find_maven_builds) LWC.jar
+redo-ifchange $(../find_maven_builds) LWC.jar mcMMO.jar
