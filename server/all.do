@@ -1,1 +1,1 @@
-redo-ifchange minecraft_server.jar
+redo-ifchange minecraft_server.jar plugins/all

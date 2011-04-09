@@ -1,0 +1,9 @@
+#!/bin/sh
+
+TARG=$1 || .
+
+find $TARG -maxdepth 2 -type f -name "pom.xml" | \
+  sed "s/\/pom\.xml.*//g" | \
+  sed "/\/Bukkit/d" | \
+  awk '{ print $0".build" }'
+

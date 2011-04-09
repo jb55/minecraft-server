@@ -1,1 +1,1 @@
-redo-ifchange buildall
+redo-ifchange buildall plugins/all

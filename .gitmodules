@@ -7,3 +7,6 @@
 [submodule "bukkit/plugins/FenceStack"]
 	path = bukkit/plugins/FenceStack
 	url = git://github.com/ashtonw/FenceStack.git
+[submodule "bukkit/plugins/LWC"]
+	path = bukkit/plugins/LWC
+	url = git://github.com/Hidendra/LWC.git
